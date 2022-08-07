@@ -1,0 +1,87 @@
+.app {
+  padding: 120px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+
+
+
+}
+
+.cl {
+  border: 2px solid aqua;
+  margin-bottom: 150px !important;
+  width: 20% !important;
+  border-radius: 15px;
+  padding: 15px;
+
+}
+
+.jk {
+  background-color: #8b008b2d;
+  padding-top: 0.1px;
+  padding-bottom: 50px;
+  position: relative;
+
+
+}
+
+.jk p {
+  margin-bottom: 150px !important;
+}
+
+.App {
+  background-color: rgba(0, 255, 255, 0.178);
+
+
+}
+
+.wave {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100% !important;
+
+}
+
+.wave2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100% !important;
+
+}
+
+.tw {
+  background: linear-gradient(45deg, rgba(255, 99, 71, 0.334), rgba(255, 166, 0, 0.329), rgba(255, 255, 0, 0.356)), url('./component/image1.jpg');
+  /* background image emn kre color set krle sei color er low brightness dite hbe niche namiye rgba kre..na hole pic dekha jbe na. */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+}
+
+
+
+.wave3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100% !important;
+
+}
+
+.x {
+  padding-top: 0.1px;
+  background-color: rgb(162, 162, 240);
+  padding-bottom: 50px;
+}
+
+.b,
+h1 {
+  padding: 1px;
+  font-size: 60px;
+  color: white;
+}
